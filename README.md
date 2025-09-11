@@ -40,12 +40,6 @@ This project showcases my journey as a **Full Stack Web Developer**, my projects
 
 ---
 
-📸 Preview
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1056a0e7-ac4a-4f2a-8f63-cd2d6255a26b" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c93fe6b4-97d7-4846-ab9a-216f2c18ee59" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c6aeda3f-461f-410a-bd61-cbaa5e64e9c1" />
-
-
 🌍 Live Demo
 🔗 View Portfolio: https://personal-portfolio-2c334j3vv-khushinayak127-gmailcoms-projects.vercel.app
 
