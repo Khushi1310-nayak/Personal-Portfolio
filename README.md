@@ -37,21 +37,32 @@ This project showcases my journey as a **Full Stack Web Developer**, my projects
 ├── app.js              # JavaScript for interactions
 ├── images/             # Portfolio images and icons
 └── README.md           # Project documentation
+```
+---
+
+📸 Preview
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a2efb4d6-a9cf-424b-b254-6bfc34004d70" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/043fa40a-4c92-429a-b665-7251d6c4a468" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/979a82c6-e5bb-4597-b7bf-6e2c50ca7ad3" />
 
 ---
 
-🌍 Live Demo
-🔗 View Portfolio: https://personal-portfolio-2c334j3vv-khushinayak127-gmailcoms-projects.vercel.app
+🌍 Live Demo: https://personal-portfolio-2c334j3vv-khushinayak127-gmailcoms-projects.vercel.app
+
+---
 
 📬 Contact Me
 
 📧 Email: khushinayak127@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/manisa-nayak-185bb5378/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bks3PkAWlSMG%2B4OurllRNFg%3D%3D
+💼 LinkedIn: https://www.linkedin.com/in/manisa-nayak-185bb5378
 
 🐙 GitHub: https://github.com/Khushi1310-nayak
 
 🐦 Twitter: https://x.com/Manisha55107535
+
+---
 
 💖 Acknowledgements
 
